@@ -1,4 +1,4 @@
-import selfie from "../assets/images/selfie.JPG";
+import selfie from "../assets/images/selfie.jpg";
 
 function AboutMe() {
   return (
